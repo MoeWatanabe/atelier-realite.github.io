@@ -19,6 +19,7 @@ layout: default
       メンバー
       <ul>
         <li>yuri🍎</li>
+        <li>moe</li>
       </ul>
       <!--<h2>卒業生</h2>
       <ul>
